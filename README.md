@@ -14,3 +14,5 @@ if (!res.ok)
 
 // Handle success response.
 ```
+
+[jsdelivr Documentation](https://www.jsdelivr.com/documentation#id-github)
